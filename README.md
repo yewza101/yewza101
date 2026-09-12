@@ -6,7 +6,7 @@
 
 ---
 
-## About YewSudLor
+## About Me
 
 I'm **Natthawat Tungsriworakan** — a Computer Engineering student from Pathum Thani, Thailand, studying at [SIIT, Thammasat University](https://www.siit.tu.ac.th/) on the Cloud Computing & Cyber Security track.
 
