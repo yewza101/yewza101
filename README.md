@@ -10,10 +10,6 @@
 
 I'm **Natthawat Tungsriworakan** — a Computer Engineering student from Pathum Thani, Thailand, studying at [SIIT, Thammasat University](https://www.siit.tu.ac.th/) on the Cloud Computing & Cyber Security track.
 
-I build **cryptographic systems for industrial IoT**: searching and aggregating over data that is never decrypted, and proving to the client that the server didn't cheat. Currently three papers under review — two at IEEE Internet of Things Journal (Q1), one at IEEE CSCloud 2026.
-
-Open to **summer 2027 internships** in security engineering, applied cryptography, or cloud infrastructure.
-
 ---
 
 ## Tools & Technologies
